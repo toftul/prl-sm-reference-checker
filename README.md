@@ -18,7 +18,7 @@ If there are many references, this can be quite labor-intensive. Using regular e
 
 ## Usage 
 ```
-bash script.sh main.tex sm.tex
+bash checker.sh main.tex sm.tex
 ```
 then open `extra_keys_in_sm` or `extra_keys_in_sm_oneline` to see all the extra bib items you need to include in your SM description.
 
